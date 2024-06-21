@@ -2,16 +2,10 @@
 # Name:        Minesweeper
 # Purpose:     ICS3U1 Final Perfomance Task
 #
-# Author:      Ryan Shen
+# Author:      Ryan S
 # Created:     January 8, 2024
-# Updated:     January 23, 2024
+# Updated:     June 20, 2024
 #-----------------------------------------------------------------------------
-#I think this project deserves a level 95-100 because ...
-# the game has several difficulties that change the number of tiles and mines. In addition, there
-# are multiple themes to suit the player's taste. Plus, in case the player does not know how to play,
-# there is a help menu with tips, automatic digging and flagging, and a hint feature that reveals
-# a tile with a question mark or a random one if there are none. Finally, there are settings for most features,
-# so they can be changed. 
 #
 #Features Added:
 # Different Themes
